@@ -13,7 +13,7 @@
 
 以下是通过 MCP 服务与 Glances 获取的系统监控数据结果截图：
 
-![系统监控图](images/dSnipaste_2025-04-09_17-02-24.png)
+![系统监控图](https://github.com/Lee-1024/mcp-glances/blob/main/images/Snipaste_2025-04-09_17-02-24.png)
 
 
 ## ⚙️ 配置说明
