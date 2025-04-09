@@ -1,0 +1,13 @@
+{
+    "server1": {
+        "name": "服务器88",
+        "url": "http://192.168.0.1:61208/api/4",
+        "description": "服务器88"
+    },
+    "server2": {
+        "name": "服务器89",
+        "url": "http://192.168.0.2:61208/api/4",
+        "description": "服务器89"
+    }
+
+}
